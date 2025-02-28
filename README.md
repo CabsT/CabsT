@@ -9,8 +9,8 @@ My journey in tech started with **SheCodes and GirlCodeZA**, and since then I’
 - **Tools & Technologies:** REST APIs, Git/GitHub, DataTables, D3.js, SQLite  
 
 ## 🚀 What I'm Working On
-Currently developing my skills in **full-stack development** 
-Fundamentals of C# and .NET backend development
+- Currently developing my skills in **full-stack development** 
+- Fundamentals of C# and .NET backend development
 
 
 ## 📫 Let's Connect!
