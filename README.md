@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Charné Teichert!
 
-<!--
-**CabsT/CabsT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **junior developer** with a background in **front-end development, Python, and data visualization**.  
+My journey in tech started with **SheCodes and GirlCodeZA**, and since then I’ve been passionate about building **responsive, user-friendly web applications**.  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** JavaScript, HTML, CSS, Python  
+- **Frameworks & Libraries:** React, Node.js, Flask, Bootstrap, Tailwind CSS  
+- **Tools & Technologies:** REST APIs, Git/GitHub, DataTables, D3.js, SQLite  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+Currently developing my skills in **full-stack development** 
+Fundamentals of C# and .NET backend development
+
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](www.linkedin.com/in/charné-teichert)  
+- 📝 [SheCodes Profile](https://www.shecodes.io/graduates/96006-charne-teichert)  
