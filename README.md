@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charné Teichert!
 
-I'm a **junior developer** with a background in **front-end development, Python, and data visualization**.  
+I'm a **junior developer** with a background in **front-end development, Python and data visualization**.  
 My journey in tech started with **SheCodes and GirlCodeZA**, and since then I’ve been passionate about building **responsive, user-friendly web applications**.  
 
 ## 💻 Tech Stack
