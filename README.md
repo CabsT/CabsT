@@ -10,7 +10,7 @@ My journey in tech started with **SheCodes and GirlCodeZA**, and since then I’
 
 ## 🚀 What I'm Working On
 - Currently developing my skills in **full-stack development** 
-- Fundamentals of C# and .NET backend development
+- Fundamentals of C# and ASP.NET core 
 
 
 ## 📫 Let's Connect!
